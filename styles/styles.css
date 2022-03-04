@@ -1,0 +1,61 @@
+body {
+    background: black;
+}
+
+
+sub {
+    color: yellow;
+}
+
+sub:hover {
+    color: orangered;
+}
+
+sup {
+    color: orangered;
+}
+
+sup:hover {
+    color: dodgerblue;
+}
+
+span:hover {
+    color: yellow !important;
+}
+
+nav {
+    box-shadow: 0 0 8px green;
+}
+
+#typewriter {
+    color: green;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.my-logo {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background: black;
+    border: 1px solid green;
+    border-radius: 100%;
+    box-shadow: 0 0 10px orangered;
+}
+
+.bear-link {
+    color: yellow !important;
+}
+
+.bear-link:hover {
+    color: green !important;
+}
+
+.mother-link {
+    color: purple !important;
+}
+
+.mother-link:hover {
+    color: darkred !important;
+}
+
