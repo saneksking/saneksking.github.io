@@ -1,13 +1,13 @@
 var mess=new Array(
- "Ты уверен что ты в безопасности?",
- "Твоя система больше не безопасна...",
- "Потому что в ней был Я!");
+ "Come to the... ",
+ "Dark Side! ",
+ "We have cookies!:) ");
 
 var size = 32;
 var txtcol = "#C0C0C0";
-var lastcol = "#00CC00";
+var lastcol = "darkred";
 var pause = 2500;
-var speed = 170;
+var speed = 100;
 var i = i_str = 0;
 var msg = msgpre = msgafter = "";
 

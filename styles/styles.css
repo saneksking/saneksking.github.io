@@ -4,31 +4,31 @@ body {
 
 
 sub {
-    color: yellow;
+    color: orangered;
 }
 
 sub:hover {
-    color: orangered;
+    color: darkred;
 }
 
 sup {
-    color: orangered;
-}
-
-sup:hover {
     color: dodgerblue;
 }
 
+sup:hover {
+    color: Green;
+}
+
 span:hover {
-    color: yellow !important;
+    color: Darkred !important;
 }
 
 nav {
-    box-shadow: 0 0 8px green;
+    box-shadow: 0 0 8px darkred;
 }
 
 #typewriter {
-    color: green;
+    color: darkred;
     text-align: center;
     margin-top: 30px;
 }
@@ -38,9 +38,8 @@ nav {
     height: 500px;
     margin: 0 auto;
     background: black;
-    border: 1px solid green;
-    border-radius: 100%;
-    box-shadow: 0 0 10px orangered;
+    border-radius: 5%;
+
 }
 
 .bear-link {
@@ -50,12 +49,3 @@ nav {
 .bear-link:hover {
     color: green !important;
 }
-
-.mother-link {
-    color: purple !important;
-}
-
-.mother-link:hover {
-    color: darkred !important;
-}
-
